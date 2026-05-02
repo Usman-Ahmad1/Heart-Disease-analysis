@@ -22,9 +22,7 @@ End-to-end Data Science project on the **UCI Heart Disease dataset**
 - Lower maximum heart rate is the strongest predictor of disease
 - Asymptomatic patients surprisingly have the highest disease count
 
----
-
-### 🤖 Day 2 — Machine Learning (XGBoost)
+Machine Learning (XGBoost)
 
 **Model Performance:**
 
