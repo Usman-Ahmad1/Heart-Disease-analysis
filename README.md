@@ -3,8 +3,7 @@
 End-to-end Data Science project on the **UCI Heart Disease dataset** 
 
 ### 🚀 Live App
-**[Click here to try the Live Prediction Dashboard](https://heart-disease-analysis-9j7uujtrac6vyjjc5byajf.streamlit.app)**
-
+**[Click here to try the Live Prediction Dashboard](https://heart-disease-analysis-84ghmaksfvpzdq4xo4wtl9.streamlit.app/)**
 ---
 
 ### 📊 Dataset
