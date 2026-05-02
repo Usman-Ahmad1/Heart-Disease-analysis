@@ -1,6 +1,6 @@
 # Heart Disease Risk Analysis 🩺
 
-End-to-end Data Science project on the **UCI Heart Disease dataset** as part of the Lagos Techies 3-Day Credibility Challenge.
+End-to-end Data Science project on the **UCI Heart Disease dataset** 
 
 ### 🚀 Live App
 **[Click here to try the Live Prediction Dashboard](https://heart-disease-analysis-9j7uujtrac6vyjjc5byajf.streamlit.app)**
